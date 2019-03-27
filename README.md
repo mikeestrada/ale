@@ -5,7 +5,7 @@ but also be a fun and challenging experience.  Please feel free to reach out and
 working on a solution.  You can e-mail interviews@alegion.com with your questions.  Good luck!
 
 ## Project Technical Requirements:
-- Application must be built with React, Redux and ES6/7.  All other dependencies are up to you.
+- Application must be built with React and Redux.  All other dependencies are up to you.
 - Instructions must be provided to run the application, install any dependencies, and any other information needed to start
 interacting with the application.
 
