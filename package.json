@@ -1,0 +1,41 @@
+{
+  "name": "js-interview",
+  "version": "1.0.0",
+  "description": "react interview submission for Mike Estrada",
+  "main": "index.js",
+  "dependencies": {
+    "@material-ui/core": "^3.9.3",
+    "axios": "^0.18.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-redux": "^7.0.3",
+    "react-scripts": "2.1.8",
+    "redux": "^4.0.1",
+    "redux-logger": "^3.0.6"
+  },
+  "scripts": {
+    "test": "test",
+    "start": "react-scripts start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alegion/js-interview.git"
+  },
+  "author": "Mike Estrada",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alegion/js-interview/issues"
+  },
+  "homepage": "https://github.com/Alegion/js-interview#readme",
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "axios-mock-adapter": "^1.16.0",
+    "enzyme": "^3.9.0",
+    "enzyme-adapter-react-16": "^1.12.1"
+  }
+}
